@@ -9,6 +9,5 @@ Features:
 - Text, image, and video nodes
 - Container and stack nodes
 - Flip nodes to reveal a back face
-- Spawn mode: stash nodes into a mother node, release them in a pooping action.
 - Connect nodes with lines
 - State auto-saved.
